@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'TAN-NIMBUS';
+    src: url('https://static1.squarespace.com/static/62810b9d4812f85fc8714315/t/628117600b44e368c8b4e3c3/1652627297937/Regards.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+label.logo{
+    line-height: 80px;
+    padding: 0 100px;
+}
+
+.logo img{
+    width: 100px;
+}
+
+nav{
+    background-color: #bf8fa4;
+    height: 100px;
+    width: 100%;
+}
+
+nav ul{
+    float: right;
+    margin-right: 50px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 10px 30px;
+}
+
+nav ul li a{
+    color: #ffe7e7;
+    font-size: 20px;
+}
