@@ -43,3 +43,8 @@ nav ul li a{
     color: #ffe7e7;
     font-size: 20px;
 }
+div{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
